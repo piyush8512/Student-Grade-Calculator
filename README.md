@@ -1,6 +1,10 @@
 # Student-Grade-Calculator -CodingSamurai-Task_3
-Java program that allows users to input their course grades and calculates their final grades based on a grading scale.
 
+Task-3: Student-Grade-Calculator 
+Language: Core Java
+IDE: visual studio code
+
+Java program that allows users to input their course grades and calculates their final grades based on a grading scale.
 
 User Interface: basic command-line design interface that prompts the user to their course grades of exam.
                 
@@ -17,5 +21,21 @@ Input Validation:input validation to handle errors gracefully, such as invalid i
 Documentation: code with comments, explaining the purpose of functions and variables. 
 
 
+Task-3: Student-Grade-Calculator 
+Language: Core Java
+IDE: vscode
 
-![Screenshot 2024-06-21 220630](https://github.com/piyush8512/Student-Grade-Calculator/assets/122198008/82bfa419-4683-4b8e-94e1-9bf247cb8b5c)
+Images
+
+![Screenshot 2024-06-22 105519](https://github.com/piyush8512/Student-Grade-Calculator/assets/122198008/0c425cc9-46f7-4f17-8d0f-329180d13a02)
+
+![Screenshot 2024-06-22 105528](https://github.com/piyush8512/Student-Grade-Calculator/assets/122198008/9d650d08-26a7-4bba-8423-c3307a8d53e4)
+
+![Screenshot 2024-06-22 105543](https://github.com/piyush8512/Student-Grade-Calculator/assets/122198008/3d3076a5-2a7f-4200-90a1-895a8c4d2a8c)
+
+
+video 
+
+
+
+
