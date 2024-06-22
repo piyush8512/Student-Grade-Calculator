@@ -27,6 +27,10 @@ IDE: vscode
 
 Images
 
+
+
+
+
 ![Screenshot 2024-06-22 105519](https://github.com/piyush8512/Student-Grade-Calculator/assets/122198008/0c425cc9-46f7-4f17-8d0f-329180d13a02)
 
 ![Screenshot 2024-06-22 105528](https://github.com/piyush8512/Student-Grade-Calculator/assets/122198008/9d650d08-26a7-4bba-8423-c3307a8d53e4)
@@ -34,7 +38,9 @@ Images
 ![Screenshot 2024-06-22 105543](https://github.com/piyush8512/Student-Grade-Calculator/assets/122198008/3d3076a5-2a7f-4200-90a1-895a8c4d2a8c)
 
 
-video 
+https://github.com/piyush8512/Student-Grade-Calculator/assets/122198008/a06086a9-85bd-4c42-acf6-a85cbdddcdac
+
+
 
 
 
